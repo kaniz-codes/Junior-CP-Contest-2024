@@ -1,4 +1,4 @@
-# Junior-CP-Contest-2024
+![image](https://github.com/kaniz-codes/Junior-CP-Contest-2024/assets/138873297/8ce62c7e-d682-4549-a7dc-c8676fa87f58)# Junior-CP-Contest-2024
 
 A
 ![image](https://github.com/kaniz-codes/Junior-CP-Contest-2024/assets/138873297/37a6efba-e5fe-4780-8d3a-0a94d139cb5e)
@@ -23,3 +23,10 @@ G
 
 H
 ![image](https://github.com/kaniz-codes/Junior-CP-Contest-2024/assets/138873297/7ac7bf1d-2ed8-4b98-b8cb-f845934165dc)
+
+I
+![image](https://github.com/kaniz-codes/Junior-CP-Contest-2024/assets/138873297/746d8af3-8717-45a0-a8af-0d962a130cbb)
+
+J
+![image](https://github.com/kaniz-codes/Junior-CP-Contest-2024/assets/138873297/05f66b71-dc2e-4898-8e1f-5626663ff020)
+
