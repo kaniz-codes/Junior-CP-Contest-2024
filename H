@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main (){
+    int n;
+    scanf("%d",&n);
+ 
+    if(n>=48 && n<=50){
+        printf("Probin");
+    }else if(n>=51 && n<=53){
+        printf("Nobin");
+    }else{
+        printf("Bohiragoto");
+    }
+ 
+    return 0;
+}
